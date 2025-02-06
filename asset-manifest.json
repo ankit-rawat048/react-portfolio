@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ankit-rawat048/react-portfolio/static/css/main.8fc1fc89.css",
-    "main.js": "/ankit-rawat048/react-portfolio/static/js/main.da780104.js",
-    "static/js/151.7f34edc2.chunk.js": "/ankit-rawat048/react-portfolio/static/js/151.7f34edc2.chunk.js",
-    "static/media/logo.svg": "/ankit-rawat048/react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/ankit-rawat048/react-portfolio/index.html",
-    "main.8fc1fc89.css.map": "/ankit-rawat048/react-portfolio/static/css/main.8fc1fc89.css.map",
-    "main.da780104.js.map": "/ankit-rawat048/react-portfolio/static/js/main.da780104.js.map",
-    "151.7f34edc2.chunk.js.map": "/ankit-rawat048/react-portfolio/static/js/151.7f34edc2.chunk.js.map"
+    "main.css": "/github.com/react-portfolio/static/css/main.8fc1fc89.css",
+    "main.js": "/github.com/react-portfolio/static/js/main.82def013.js",
+    "static/js/151.7f34edc2.chunk.js": "/github.com/react-portfolio/static/js/151.7f34edc2.chunk.js",
+    "static/media/logo.svg": "/github.com/react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/github.com/react-portfolio/index.html",
+    "main.8fc1fc89.css.map": "/github.com/react-portfolio/static/css/main.8fc1fc89.css.map",
+    "main.82def013.js.map": "/github.com/react-portfolio/static/js/main.82def013.js.map",
+    "151.7f34edc2.chunk.js.map": "/github.com/react-portfolio/static/js/151.7f34edc2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8fc1fc89.css",
-    "static/js/main.da780104.js"
+    "static/js/main.82def013.js"
   ]
 }
