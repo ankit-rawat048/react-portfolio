@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+h1{
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+h3{
+  text-transform: uppercase;
+}
+
+p{
+  font-family: 'Times New Roman', Times, serif;
+  padding: 40px;
+}
