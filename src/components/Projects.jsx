@@ -1,7 +1,10 @@
 const Projects = () => {
     return (
       <section id="projects" >
+        <div className="projectHead">
         <h2>Projects</h2>
+        <a href="seeAll">See all</a>
+        </div>
         <ul className="projectSection">
           <li>📌
            <a href="#">Portfolio Website</a>

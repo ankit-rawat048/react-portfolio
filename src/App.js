@@ -9,7 +9,6 @@ function App() {
   return (
     <div className="bg-black text-white mx-auto max-w-4xl my-[300px]">
       <Hero />
-      <About />
       <Projects />
       <Contact />
     </div>
