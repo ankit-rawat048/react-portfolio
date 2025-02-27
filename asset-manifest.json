@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.2f75e7ee.css",
-    "main.js": "/react-portfolio/static/js/main.1a80c26f.js",
+    "main.js": "/react-portfolio/static/js/main.a420a170.js",
     "static/js/453.bb257cf5.chunk.js": "/react-portfolio/static/js/453.bb257cf5.chunk.js",
     "static/media/avgagjntp.webp": "/react-portfolio/static/media/avgagjntp.e5e90da99218ee2900d6.webp",
     "static/media/1687786979245.jpg": "/react-portfolio/static/media/1687786979245.1d50d739fe712d115781.jpg",
@@ -11,11 +11,11 @@
     "static/media/kisspng-mongodb-inc-logo-table-attribute-1713921815918.webp": "/react-portfolio/static/media/kisspng-mongodb-inc-logo-table-attribute-1713921815918.70af8d20157beaa568e9.webp",
     "index.html": "/react-portfolio/index.html",
     "main.2f75e7ee.css.map": "/react-portfolio/static/css/main.2f75e7ee.css.map",
-    "main.1a80c26f.js.map": "/react-portfolio/static/js/main.1a80c26f.js.map",
+    "main.a420a170.js.map": "/react-portfolio/static/js/main.a420a170.js.map",
     "453.bb257cf5.chunk.js.map": "/react-portfolio/static/js/453.bb257cf5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2f75e7ee.css",
-    "static/js/main.1a80c26f.js"
+    "static/js/main.a420a170.js"
   ]
 }
